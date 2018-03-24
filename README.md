@@ -1,6 +1,6 @@
-# Altizure App
+# Altizure User Docs
 
-Welcome to Altizure App！
+Welcome to Altizure Docs！
 
 
 ---
