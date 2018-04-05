@@ -9,19 +9,21 @@
 ## To import a file into SketchUp, you need {#need}
 
 1. Free Offline Format Converter in [Altizure Desktop](https://www.altizure.com/desktop). 
-   * [Tutorial on Format Converter](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/offline-format-converter.html)
+   * [Tutorial on Format Converter](offline-format-converter.html)
 2. SketchUp [Download](https://www.sketchup.com/)
-3. [Sample of the downloadable assets](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/downloadable-assets.html#sample)
+3. [Sample of the downloadable assets](downloadable-assets.html#sample)
+
 
 ## How to import Altizure DAE files into SketchUp? {#full-dae}
 
 The 3D model available to download at altizure.com uses .obj filename extension. Please watch the short tutorial or follow the steps below and convert your 3D models into DAE format.
 
-**（插入视频）**
+<iframe width="640" height="480" src="https://www.youtube.com/embed/o_fMb_EaNAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Step 1:** Merge the .obj files. Go to **Altizure Desktop &gt; Converter** and select **Full project obj files &gt; merge**.
 
-All the .obj tiles[at the same level of textures](https://site.altizure.com/support/articles/download_assets?lang=en)will be merged into one file. Take the example of a model in LOD level 5. If you set the Block Size as the default number 32, you will export 5 .obj files with each representing a particular level of textures.
+All the .obj tiles [at the same level of textures](https://site.altizure.com/support/articles/download_assets?lang=en)will be merged into one file. Take the example of a model in LOD level 5. If you set the Block Size as the default number 32, you will export 5 .obj files with each representing a particular level of textures.
+
 
 **Please notice:** .jpg files are the textures of model. They must be in the same folder together with other files of different formats.
 
@@ -59,7 +61,9 @@ The slow rendering might be due to the power limit of your Graphics Card. You ca
 
 ## How to import models with a high level-of-detail in SketchUp? {#high-lod}
 
+
 [The concept of LOD level or high-level textures](https://site.altizure.com/support/articles/download_assets#there)
+
 
 In short, the whole process can be summarized as: **Merge the OBJ files &gt; Convert OBJ to DAE &gt; Import**
 
@@ -67,7 +71,9 @@ In short, the whole process can be summarized as: **Merge the OBJ files &gt; Con
 
 **Step 1: **Go to **Altizure Desktop &gt; Converter &gt; Full obj project &gt; merge**.
 
+
 If you want to merge the tiles at level 6 or above, we recommend that the Block Size should be 64— which is the highest that a computer can support. To further explain it, we use a model of LOD level 7. As we have illustrated in [another article](https://site.altizure.com/support/articles/format_conversion#biggest), the model should have 128x128 tiles at level 7, i.e. 2^\(6+1\)=128. This means, there'll be 4 .obj files if you merge the tiles at level 7, i.e. \(128x128\)/\(64x64\)=4.
+
 
 ![](../assets/sketchup-64Merge-L7-long.png)
 

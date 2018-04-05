@@ -28,8 +28,10 @@ The animation video in full resolution is being developed and will be released a
 
 An animation consists of a sequence of view points, and the UI allows the users to easily choose any view point from the 3D model.
 
-**Here is a video tutorial 插入视频**
 
+**Here is a video tutorial：**
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/KG5yumQlGZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Go to the project page of one of your projects.
@@ -89,7 +91,12 @@ Just like how you share your 3D model with measurements, in the pop-up dialogue,
 4. As for the fourth method, you can obtain an embed code that allows you to insert a 3D model with measurements on your website.
    ![](../assets/eng-share-popup-method4.png)
 
-**The animation embedded on your webpage will be like this.** **插入动画模型**
+**The animation embedded on your webpage will be like this.** 
+
+<iframe src="https://www.altizure.com/project/564c5f5afa3d3c1939de100f/model/embed?flight=56e6bb82fc79409e61fdef68#autoplay=false" style="border:none;width:640px;height:480px;max-width:100%;"></iframe>
+
+
+
 
 ---
 

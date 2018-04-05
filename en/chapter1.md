@@ -4,6 +4,7 @@
 
 #### Step 1: Create a project and upload photos
 
+
 First of all, please make sure that your web browser meets [relevant requirements](compatible-web-browser.html).
 
 * [Sign Up for an Altizure account](register-at-altizurecom.html)
@@ -11,9 +12,11 @@ First of all, please make sure that your web browser meets [relevant requirement
 * [Upload images](questions-on-uploading-images.html)
 * [Requirements on input images](requirements-on-the-input-images.html)
 
+
 #### Step 2: Be familiar with all the functions on each page
 
 After uploading all the photos, you can familiarize yourself with all the necessary features and basic functions on each page.
+
 
 * [Overview page](overview-page.html)
 * [Setup page](setup-page.html)
@@ -30,6 +33,7 @@ After uploading all the photos, you can familiarize yourself with all the necess
 
 * [How to upgrade your Free Quota](upgrade-your-free-quota.html)
 
+
 ## 2. Steps for Intermediate Users/ Paid Users to Follow
 
 **Step 1:** Users should be familiar with the functions and steps listed above.
@@ -37,15 +41,18 @@ After uploading all the photos, you can familiarize yourself with all the necess
 **Step 2:** Get to know about Free and Pro projects.
 
 * [Difference between Free and Pro projects](https://site.altizure.com/pricing)
+
 * [Q&A for Free or Pro projects](free-or-pro-project.html)
 
 **Step 3:** Download your model.
 
 * [Sample of Downloadable Assets](downloadable-assets.html#sample)
 
+
 **Step 4:** Get to know about Altizure Desktop. With Pro projects, you can make full use of Altizre Desktop.
 
 * [Download Altizure Desktop](https://www.altizure.com/desktop)
+
 * [What can you do with Altizure Desktop?](what-is-altizure-desktop.html)
 * [What is Altizure Format Converter](offline-format-converter.html)
 
@@ -60,6 +67,7 @@ After uploading all the photos, you can familiarize yourself with all the necess
 * [Prepare Input data for mega projects](prepare-input-data-for-mega-project.html)
 * [Add Ground Control Points](adding-ground-control-points.html) & [How to read GCP Report](gcp-report.html)
 * You can evaluate your project by looking at its camera poses and [3D Reconstruction Report](3d-reconstruction-report.html).
+
 
 
 ---

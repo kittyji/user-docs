@@ -34,7 +34,7 @@ Please obtain the`DAE`and`KML`files by using our Offline Converter in [Altizure 
 To import them:
 
 1. Open Google Earth Pro.
-2. Go to`File`&gt;&gt;`Open`and select the downloaded`DAE`or`KML`files. In the following example, we imported the `level_2_0_0.kml` file.
+2. Go to`File`&gt;&gt;`Open`and select the downloaded `DAE`or`KML`files. In the following example, we imported the `level_2_0_0.kml` file.
 
 ![](../assets/googleearth-screenshot-1.png)
 

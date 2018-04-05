@@ -1,5 +1,6 @@
 # Overview Page {#overview}
 
+
 The project overview page is a dashboard of a single project, in which the project owner is able to view and manage inputs, outputs, and monitor the online reconstruction process. In particular, the owner can start / stop reconstruction, upload images, download outputs, report problems and change project settings such as project description and visibility.
 
 * [Menu on the left-hand side](#left)
@@ -14,6 +15,7 @@ The project overview page is a dashboard of a single project, in which the proje
 ## How to Enter the Overview Page {#enter}
 
 You can go to the **Overview** page by clicking one of your projects in **My Projects**.
+
 
 ## Left Sidebar {#left}
 
@@ -47,9 +49,11 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 
 **Featured:** Whether the project is Featured by our community manager or not.
 
+
 ![](../assets/overview-info-card.png)
 
 ## Run Task Card {#runtask}
+
 
 **Add: You can add images to the project**
 
@@ -58,6 +62,7 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 **Start: **Sometimes, your project does not successfully receive the reconstruction command. You can **re-start the project** by clicking this button.
 
 **GCP Embedded 3D Reconstruction \(Invitation Only\): **You can add Ground Control Points on this tablet. If you want to enable this function, please send us your credentials on surveying and mapping, and apply for the access.
+
 
 ![](../assets/overview-run-task.png)
 ## Progress Card {#progress}
@@ -75,6 +80,7 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 
 * **Unchanged**: The images of the project are unchanged. So, no need to rerun the project.
 
+
 * **Done:** The project is finished successfully.
 
 ![](../assets/overview-progress-card.png)
@@ -85,15 +91,18 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 
 **Description:** You can write a short introduction of your model or anything you like. Other users can see the description when viewing your model.
 
+
 **Setup Model:** The entrance of the [**Setup Page**](setup-page.html).
 
 **Comments:** For both Free and Pro projects, you can **Allow **or **disallow **the comments from other users.
+
 
 **Location: **If the input images contain GPS information, your model will be geo-referenced and be displayed on Altizure Earth. For both Free and Pro projects, you can check or uncheck this option.
 
 **Logo:** Professional project users can turn off this function if they don't want to show Altizure logo when presenting the model to other viewers.
 
 **Visibility**: You can set the project as **Public**, **Unlisted **or **Private**. For Free projects, you can only maintain the default setting as **Public**.
+
 
 * **Public **setting will list your project in our **Explore **page, meaning that everyone could discover and view your content.
 
@@ -105,6 +114,7 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 
 ## Administration Card {#admin}
 
+
 **Upgrade: **You can upgrade your Free project to Pro project. If you do not have enough Alticoins in your account, you need to buy more in the [**Pricing**](https://site.altizure.com/pricing) page.
 
 **Transfer:** If you want to transfer the project to another user, you can type in the registration email of the new owner. Please notice that once you transfer the project to other user, the ONLY things you can do with the model are to Add it as Your Favorite, or to view the 3D model, orthomap and camera poses of the model. You CANNOT do any other operations.
@@ -115,11 +125,13 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 
 ## Report Problem Card {#problem}
 
+
 If you have any questions with the project, you can use this function to report the problem, e.g. the project stops at XX stage in the reconstruction process.
 
 ![](../assets/overview-report-problem.png)
 
 ## Download Card {#download}
+
 
 Professional project users can download their models in OBJ files here. For more details, please check [this article](downloadable-assets.html). You can download our sample 3D model files from [here](downloadable-assets.html#sample).
 

@@ -27,6 +27,7 @@ People who have specific needs of model format in their third party software for
 ## Where can I get the Converter? {#where}
 
 The Offline Converter is now available for [Altizure Desktop](https://www.altizure.com/desktop) \(Windows 64-bit & macOS\).
+
 ![](../assets/converter-1.png)
 
 ## Formats that be converted to {#formats}
@@ -104,7 +105,9 @@ Literally speaking, **Merge** simply means to merge a bunch of .obj files into o
 ![](../assets/converter-full-merge.png)  
 ![](../assets/converter-ppt-tile.png)
 
-To understand the **Merge** function, you must first understand [the quadtree structure](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/downloadable-assets.html#lots) and [the OBJ file naming principle in model.zip](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/downloadable-assets.html#lod).
+
+To understand the **Merge** function, you must first understand [the quadtree structure](downloadable-assets.md#lod).
+
 
 If you set the block size as 32 \(which is the default block size\), the Format Converter will **merely merge** the OBJ files in model.zip for every 32 by 32 unit area, and then generate the merged OBJ files. You can roughly view them as a larger piece of tile. They still maintain LOD but no longer are in the quadtree structure. The purpose of it is to offer users a more handy control over their models as they do not have to import a large number of fragmented pieces into software everytime.
 
@@ -112,7 +115,9 @@ If you set the block size as 32 \(which is the default block size\), the Format 
 
 ##### What is the biggest Block Size that I can set?
 
-After reading the articles on [quadtree structure](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/downloadable-assets.html#lots) and [LOD](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/downloadable-assets.html#lod), you may now understand, the OBJ files that Altizure generates are named as tile\_I\_x\_y. The first number \(i.e. I\) represents the level-of-detail \(LOD\). The second and third number \(i.e. x, y\) represent its x-y location in the model respectively.
+
+After reading the articles on [quadtree structure](downloadable-assets.md#lots) and [LOD](downloadable-assets.md#lod), you may now understand, the OBJ files that Altizure generates are named as tile\_I\_x\_y. The first number \(i.e. I\) represents the level-of-detail \(LOD\). The second and third number \(i.e. x, y\) represent its x-y location in the model respectively.
+
 
 At level I, the maximum number for x- and y-coordinates of each file should not exceed 2^\(l+1\). To explain it, let's take a Level-5 model as an example. For the files at LOD level 5, the x- and y-coordinates will not exceed 64 \(i.e. 2^\(5+1\)=64\). This means, if you want to merge all the OBJ files at level 5 into one OBJ, you can set the Block Size as 64, which is also the biggest Block Size that a computer can handle so far.
 
@@ -134,13 +139,14 @@ A single .obj file can be converted into:
 
 ![](../assets/converter-single-osgb.png)
 
+
 **Input Path: **The full path of the .obj file that you want to convert.
 
 **Output Path: **The full path of the folder to which you want to export files. This could be either an existing folder or a non-existing one that the software will then automatically create.
 
 #### Select Type: DAE {#singledae}
 
-If you want to learn more about how to convert **a full OBJ project** into **DAE**, please take a look at [this article](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/import-to-sketchup.html#full-dae).
+If you want to learn more about how to convert **a full OBJ project** into **DAE**, please take a look at [this article](mport-to-sketchup.md#full-dae).
 
 ![](../assets/converter-single-dae.png)
 
@@ -158,7 +164,9 @@ If you want to learn more about how to convert **a full OBJ project** into **DAE
 
 ## Where to download the input OBJ files? {#download}
 
-Upgrade to pro \(you need to buy some alticoins\), then download **&lt;projectname&gt;\_model.zip**. [\(Sample download files\)](https://kitty_ji.gitbooks.io/eng-altizure-reconstruction-guide/content/downloadable-assets.html#sample)
+
+Upgrade to pro \(you need to buy some alticoins\), then download **&lt;projectname&gt;\_model.zip**. [\(Sample download files\)](downloadable-assets.md#sample)
+
 
 ## How to fix the missing or corrupted d3dcompiler\_47.dll error when installing Altizure Desktop on Windows 7? {#error}
 

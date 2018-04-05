@@ -6,6 +6,12 @@
 
 ### Where can I find the 3D measurement tools?
 
+
+Here is a video tutorial:
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/5knIajH5fM0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 1. Go to the project page of one of your projects.
 
 2. Click the **Studio** tab on the left sidebar.
@@ -14,7 +20,9 @@
 
 4. Left click to add measurement point\(s\) and draw a polyline. Right click to end the measurement. If the polyline is closed, the area of the enclosed polygon will be computed.
 
+
 Here is a video tutorial:
+
 
 ## What can the 3D measurement tools measure? {#what}
 
@@ -70,11 +78,13 @@ In the pop-up dialogue, there're generally**four ways**to share your measurement
 3. Share QR code.  
    ![](../assets/eng-share-popup-method3.png)
 
-4. As for the fourth method, you can obtain an embed code that allows you to insert a 3D model with measurements on your website.  ![](../assets/eng-share-popup-method4.png)
+4. As for the fourth method, you can obtain an embed code that allows you to insert a 3D model with measurements on your website.  
+![](../assets/eng-share-popup-method4.png)
 
 The 3D model that you can embed in your homepage will be like this.
 
-**&lt;how-to-embed-3D-model&gt;**
+<iframe src="https://site.altizure.com/project/590c784c1225725be9d360db/model/embed?map=5abdda90f9170d1c6d42a174#autoplay=false" style="border:none;width:640px;height:480px"></iframe>
+
 
 ## Disclaimer {#disclaimer}
 

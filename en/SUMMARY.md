@@ -2,12 +2,14 @@
 
 ## Introduction
 
+
 * [Table of Contents](README.md)
 * [Introduction \(Company & Product\)](intro.md)
 * [Words for Novice in 3D Reconstruction](words-for-first-time-users.md)
 * [Steps to Follow](chapter1.md)
 
 ## Basics
+
 
 * [Project Overview Page](overview-page.md)
   * [Project Information](overview-page.md#info)

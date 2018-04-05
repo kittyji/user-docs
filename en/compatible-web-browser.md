@@ -14,7 +14,6 @@ In some older versions of browsers, the WebGL was not supported, or it has not b
 The following browsers support WebGL:
 
 | Platform | Compatible browsers |
-| :--- | :--- |
 | Desktop | Mozilla FirefoxGoogle ChromeOperaSafari \(must enable manually in 7.1.3 \[OS X 10.9\] and earlier\)Internet Explorer**\(version 11 or later\)** |
 | Mobile | Android 4.0 with Firefox beta and Google ChromeiOS 8Blackberry browser |
 

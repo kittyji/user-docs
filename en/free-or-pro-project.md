@@ -1,8 +1,9 @@
 # Free vs Professional Projects
 
-The **Differences **between Free and Professional projects are listed on our [**Pricing page**](https://site.altizure.com/pricing\).
+The **Differences **between Free and Professional projects are listed on our [**Pricing page**](https://site.altizure.com/pricing).
 
-A Free project has the same reconstruction resolution as a Pro project.
+A Free project has the same reconstruction quality as a Pro project.
+
 
 
 
@@ -13,7 +14,8 @@ No. Without any payment being required, you can try out any number of free proje
 
 **What is the size limit of free projects?**
 
-The free project size limit is 3 GP at the start, but you can increase the limit by publishing high quality results. When one of your public project is featured by Altizure, you will get extra free quota equal to the size of the project. Learn more on [**Free Quota Upgrade Program**](upgrade-your-free-quota.html).
+The free project size limit is 3 GP at the start, but you can increase the limit by publishing high quality results. When one of your public project is featured by Altizure, you will get extra free quota equal to the size of the project. Learn more on [**Free Quota Upgrade Program**](upgrade-your-free-quota.md).
+
 
 **Can a Free project be converted into a Pro project?**
 
@@ -25,11 +27,20 @@ Pro project gives you unlimited uploads, more than enough for our professional u
 
 **How can I upgrade to Pro project?**
 
-Please read [this article](upgrade-free-to-pro.html).
+Please read [this article](upgrade-free-to-pro.md).
 
 **Is it possible to view the data in higher resolution when using a local viewer?**
 
 Possible. This is related to the organization of the large-scale 3D model data, in Level of Details \(LoD\). When you have a powerful viewer \(for example, FBX Review\) to load all the finest-level of models, you are able to view the most detailed models of all parts.
+
+
+**How can I calculate how big a project will be? Or, how many Alticoins do I need for one project?**
+
+Please use the **Cost Calculator** on the [**Pricing Page**](https://site.altizure.com/pricing).
+
+Short Tutorial:
+<iframe width="640" height="480" src="https://www.youtube.com/embed/MiLi11RhUdU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ---
 

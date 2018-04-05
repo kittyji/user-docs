@@ -1,4 +1,5 @@
-Welcome to Altizure.com! This is a Complete Guideline on How to Use Alizure.com and Altizure Desktop.
+
+Welcome to Altizure! This is a Complete Guideline on How to Use Alizure.com and Altizure Desktop.
 
 # Table of Contents
 

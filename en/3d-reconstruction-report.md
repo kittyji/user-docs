@@ -24,7 +24,10 @@ The report provides users with all kinds of data. Here in this article, we have 
 
 ### Global results {#global}
 
-In the following table, two figures need special attention. One is the **Number of failed photos**, i.e. those photos are ruled as invalid and are not used in reconstructing the model. The second is the **Number of valid photos**.![](/assets/3dreport-globalresult.png)
+
+In the following table, two figures need special attention. One is the **Number of failed photos**, i.e. those photos are ruled as invalid and are not used in reconstructing the model. The second is the **Number of valid photos**.
+
+![](/assets/3dreport-globalresult.png)
 
 Too many failed photos suggest a not-so-high-quality data capture, but 0 invalid photos do not mean a successful data capture. To evaluate the quality of a data collection, users must take into account many factors, including the following 6 pictures in SFM Result Visualization—probably the most useful section in this report.
 
@@ -42,13 +45,18 @@ The 2D coordinates of correctly-matched keypoints that our system identifies on 
 
 This figure visualizes the average reprojection errors in each camera/ photo. Each circle represents a camera or a photo. The colorbar on the right-hand side of the figure shows a certain type of color corresponds to a different degree of reprojection error. The redder the circle is, the bigger the reprojection error will be, and hence, the poorer the reconstruction quality can be.
 
-There may be several reasons causing the large reprojection error: repeated scenes \(e.g. repeated patterns\), blurry photos, or areas covered by weeds and woods, etc.![](/assets/3dreport-reprojection-error.png)
+
+There may be several reasons causing the large reprojection error: repeated scenes \(e.g. repeated patterns\), blurry photos, or areas covered by weeds and woods, etc.
+
+![](/assets/3dreport-reprojection-error.png)
+
 
 #### Projection Distribution SD {#-projection-distribution-sd-}
 
 This figure visualizes the distribution of keypoints in each camera/ photo. Each circle represents a camera/ photo. The redder the circle is, the more unevenly distributed the keypoints are on that photo.
 
 The main reason for unevenly distributed keypoints is: the capturing area is not ideal for 3D reconstruction. This includes areas that are lack of patterns or textures, transparent objects or buildings with a reflective surface, etc.
+
 ![](../assets/3dreport-distribution-sd.png)
 
 #### Rolling Shutter {#rolling}
@@ -56,6 +64,7 @@ The main reason for unevenly distributed keypoints is: the capturing area is not
 This figure visualizes the image quality of each camera/ photo. Each circle represents a camera/ photo. The redder the circle is, the poorer the image quality will be. For circles with a black edge, the image quality might be even worse, and more importantly, the poor quality of those images might severely affect the final reconstruction result.
 
 The influencing factors of image quality include: the flight speed of a drone when capturing data, focal length, light condition, etc.
+
 ![](../assets/3dreport-rolling-shutter.png)
 
 #### Camera Pairs of XX% strongest connections {#-camera-pairs-of-xx-strongest-connections-}
@@ -90,7 +99,9 @@ Our report shows the photo coverage of the reconstructed area. The whiter the be
 
 **Keep**: Altizure will not optimize this parameter in 3D reconstruction.
 
+
 **Per-image Results Card**
+
 
 **Before**: Before Global Optimization
 

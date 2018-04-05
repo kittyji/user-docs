@@ -70,7 +70,7 @@ Here is an incomplete list of both free and professional softwares that read OBJ
 
 **Professional**:
 
-1. Adob​​​​e Photoshop:
+1. Adobe Photoshop:
    [Product Page](https://www.adobe.com/products/photoshop.html)
 2. Autodesk 3Ds Max:
    [Product Page](https://www.autodesk.com/products/3ds-max/overview)

@@ -22,6 +22,7 @@ The whole process can be summarized as follows:
 
 **Edit or share your 3D model with other users in Altizure community or present it to your clients**.
 
+
 We'll guide you through the whole process. Now, let's begin! [&gt;&gt;&gt;](chapter1.html)
 
 ---
