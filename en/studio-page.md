@@ -42,6 +42,8 @@ For more details on how to use the Flight Animation Tool, please take a look at 
 
 If the model is successfully aligned with GPS information, you can obtain the cooridnate of any point on the model.
 
+Please note that this function is not available online if the model is located in Mainland China. According to Chinese regulations, if the location of the model is in Mainland China, users need to upgrade the project to Pro and sync it with Altizure Desktop. Then, users can use this function offline in Altizure Desktop.
+
 ![](../assets/studio-coor-icon.png)
 
 ## Seen Images Icon {#images}

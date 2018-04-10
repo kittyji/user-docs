@@ -1,8 +1,43 @@
 {
-  "links": {
-      "home": "https://www.altizure.com"
-  },
-  "title": "Altizure User Manual",
-  "description": "Altizure, Mapping the Future in 3D",
-  "author": "Altizure Team"
+    "links": {
+        "home": "https://docs.altizure.com"
+    },
+    "plugins": [
+        "ga",
+        "language-picker",
+        "toolbar",
+        "custom-favicon",
+        "otherlink"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-70332606-7",
+            "configuration": {
+              "cookieName": "docs_altizure",
+              "cookieDomain": "docs.altizure.com"
+            }
+        },
+        "language-redirect": {
+            "baseurl": "https://docs.altizure.com/"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Bug tracker",
+                    "icon": "fa fa-bug",
+                    "position" : "left",
+                    "url": "https://github.com/altizure/user-docs/issues/new?title=Doc+Bug:+{{title}}&body=DESCRIBE+PROBLEM+WITH+DOCS+HERE%0A%0ABug+Page:+[{{title}}]({{url}})"
+
+                },
+                {
+                    "label": "Edit page on github",
+                    "icon": "fa fa-pencil-square-o",
+                    "position" : "left",
+                    "url": "https://github.com/altizure/user-docs/edit/master/{{filepath_lang}}"
+                }
+            ]
+        },
+        "favicon": "favicon.ico"
+    }
 }

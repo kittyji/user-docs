@@ -21,7 +21,7 @@ Here is a video tutorial:
 4. Left click to add measurement point\(s\) and draw a polyline. Right click to end the measurement. If the polyline is closed, the area of the enclosed polygon will be computed.
 
 
-Here is a video tutorial:
+
 
 
 ## What can the 3D measurement tools measure? {#what}

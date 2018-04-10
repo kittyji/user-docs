@@ -91,7 +91,7 @@ Our report shows the photo coverage of the reconstructed area. The whiter the be
 
 ### Others {#others}
 
-**In the Analysis Card**
+#### In the Setup Card
 
 **Compute**: Altizure will compute this parameter.
 
@@ -100,7 +100,7 @@ Our report shows the photo coverage of the reconstructed area. The whiter the be
 **Keep**: Altizure will not optimize this parameter in 3D reconstruction.
 
 
-**Per-image Results Card**
+#### Per-image Results Card
 
 
 **Before**: Before Global Optimization

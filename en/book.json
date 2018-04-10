@@ -1,8 +1,5 @@
 {
-  "links": {
-      "home": "https://www.altizure.com"
-  },
-  "title": "Altizure User Manual",
-  "description": "Altizure, Mapping the Future in 3D",
+  "title": "Altizure Open Platform Documentation",
+  "description": "Altizure User Docs. Unleash the power of realistic 3D models",
   "author": "Altizure Team"
 }

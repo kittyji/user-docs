@@ -2,7 +2,7 @@
 
 The **QGIS **is an open source free geographic information system software. We will guide you in generating a contour map in **shapefile **format from a DSM map by Altizure.
 
-Step 1: Download the sample DSM file from the bottom of the page [https://www.altizure.com/support/articles/download\_assets](https://www.altizure.com/support/articles/download_assets)
+Step 1: Download the sample DSM file [here](downloadable assets.md#sample)
 
 ![](../assets/dsm_contour_QGIS__1.png)
 

@@ -1,6 +1,7 @@
 # What are the compatible Web Browsers?
 
 * [WebGL Support](#webgl)
+* [How to enable WebGL in browser?](#enable)
 * [Supported web browser](#supportedbrowser)
 * [Download Compatible Browsers](#download)
 * [Troubleshooting](#troubleshooting)
@@ -14,10 +15,11 @@ In some older versions of browsers, the WebGL was not supported, or it has not b
 The following browsers support WebGL:
 
 | Platform | Compatible browsers |
-| Desktop | Mozilla FirefoxGoogle ChromeOperaSafari \(must enable manually in 7.1.3 \[OS X 10.9\] and earlier\)Internet Explorer**\(version 11 or later\)** |
-| Mobile | Android 4.0 with Firefox beta and Google ChromeiOS 8Blackberry browser |
+| :--- | :--- |
+| Desktop | <ul><li>Mozilla Firefox</li><li>Google Chrome</li><li>OperaSafari (must enable manually in 7.1.3 [OS X 10.9] and earlier)</li><li>Internet Explorer(version 11 or later)</li></ul> |
+| Mobile | <ul><li>Android 4.0 with Firefox beta and Google Chrome</li><li>iOS 8</li><li>Blackberry browser</li></ul>|
 
-How to enable WebGL in browser?
+## How to enable WebGL in browser? {#enable}
 
 1. Safari, you can manually enable WebGL:
 
@@ -65,4 +67,3 @@ Please contact us at [support@altizure.com](mailto:support@altizure.com) if you 
 ---
 
 Last modified at {{ file.mtime }}
-

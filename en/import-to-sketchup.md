@@ -9,9 +9,9 @@
 ## To import a file into SketchUp, you need {#need}
 
 1. Free Offline Format Converter in [Altizure Desktop](https://www.altizure.com/desktop). 
-   * [Tutorial on Format Converter](offline-format-converter.html)
+   * [Tutorial on Format Converter](offline-format-converter.md)
 2. SketchUp [Download](https://www.sketchup.com/)
-3. [Sample of the downloadable assets](downloadable-assets.html#sample)
+3. [Sample of the downloadable assets](downloadable-assets.md#sample)
 
 
 ## How to import Altizure DAE files into SketchUp? {#full-dae}
@@ -62,7 +62,7 @@ The slow rendering might be due to the power limit of your Graphics Card. You ca
 ## How to import models with a high level-of-detail in SketchUp? {#high-lod}
 
 
-[The concept of LOD level or high-level textures](https://site.altizure.com/support/articles/download_assets#there)
+The concept of LOD level or high-level textures ([Q&A 1](downloadable-assets.md#lots) & [Q&A 2](downloadable-assets.md#lod))
 
 
 In short, the whole process can be summarized as: **Merge the OBJ files &gt; Convert OBJ to DAE &gt; Import**

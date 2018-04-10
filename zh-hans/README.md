@@ -1,7 +1,6 @@
-欢迎使用 Altizure！
+# 欢迎使用 Altizure！
 
-
-# 目录
+Altizure.cn & Altizure Desktop 使用教程
 
 
 

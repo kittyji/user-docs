@@ -1,8 +1,5 @@
 {
-  "links": {
-      "home": "https://www.altizure.cn"
-  },
-  "title": "Altizure 用户手册",
-  "description": "Altizure 用三维绘制未来。",
-  "author": "Altizure 团队"
+  "title": "Altizure 用户文档",
+  "description": "关注 Altizure 平台，释放实景三维的无穷魅力",
+  "author": "Altizure 开发团队"
 }
