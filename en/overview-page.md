@@ -37,7 +37,7 @@ You can go to the **Overview** page by clicking one of your projects in **My Pro
 
 ## Run Task Card {#runtask}
 
-**Add:** You can add images to the project
+**Add:** You can add images to the project. As for how to add photos and the requirements on the newly-added photos, please take a look at [this article](add-photo.md).
 
 **Stop: **You can stop the reconstruction process of the project.
 
