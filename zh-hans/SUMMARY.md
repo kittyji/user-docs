@@ -30,6 +30,7 @@
 * [上传要求](upload-image.md)
 * [图像要求](input-requirement.md)
 * [为大型项目准备输入数据](mega-project.md)
+* [将不同任务采集的照片，上传/添加到同一个项目](add-photo.md)
 
 ## 浏览 & 分享 & 编辑 & 管理
 
