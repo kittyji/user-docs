@@ -9,6 +9,7 @@ First of all, please make sure that your web browser meets [relevant requirement
 * [How to create a project](create-a-project.md)
 * [Requirements on the upload process](upload-image.md)
 * [Requirements on input images](input-requirement.md)
+* [Can I combine the photos from two captures into one project?](add-photo.md)
 
 #### Step 2: Be familiar with all the functions on each page
 
