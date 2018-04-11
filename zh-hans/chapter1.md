@@ -9,6 +9,7 @@
 * [创建项目](create-a-project.md)
 * [上传要求](upload-image.md)
 * [图像要求](input-requirement.md)
+* [可以将不同任务采集的照片上传进一个项目里吗？](add-photo.md)
 
 #### 第二步：熟悉每一个页面上的功能
 
