@@ -32,6 +32,7 @@
 * [Requirements on the Upload Process](upload-image.md)
 * [Requirements on Input Images](input-requirement.md)
 * [Prepare Input Data for Mega Project](mega-project.md)
+* [Upload Photos from Different Missions to the Same Project](add-photo.md)
 
 ## View, Share, Edit & Manage
 
